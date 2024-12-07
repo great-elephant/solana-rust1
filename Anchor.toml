@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-solana_rust3 = "AgLd6tvSA9J3PH91KikYxNMRYqLQMi5aSKyofGECuuSP"
+solana_rust3 = "3YZmiD8PjFPG7vTva9MtPF2FBw4aRUmho5kXKTYj9cFM"
 
 [registry]
 url = "https://api.apr.dev"
